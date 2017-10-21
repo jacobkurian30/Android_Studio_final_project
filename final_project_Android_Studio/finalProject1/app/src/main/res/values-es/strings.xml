@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">finalProject</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="msg1">Actualización de precios...</string>
+    <string name="msg2">Enter Bit Coin Dirección</string>
+
+    <string name="str1">Precio de la acción</string>
+    <string name="str2">priceLabel</string>
+    <string name="str3">Seleccione Periodo de tiempo</string>
+
+    <string name="str4">Ir</string>
+    <string name="str5">Ingresar número: </string>
+    <string name="str6">Ir</string>
+    <string name="str7">Equilibrar: </string>
+    <string name="str8">Precio</string>
+    <string name="str9">Tabla de precios</string>
+    <string name="str10">Bloquear información</string>
+    <string name="str11">Equilibrar</string>
+
+    <string name="str12">día 1</string>
+    <string name="str13">día 5</string>
+    <string name="str14">Prev  </string>
+    <string name="str15">Next</string>
+    <string name="str16">Bloque anterior : </string>
+    <string name="str17">Siguiente bloque :</string>
+    <string name="str18">Tamaño: </string>
+    <string name="str19">Cuota de bloqueo</string>
+    <string name="str20">v_sum          : </string>
+    <string name="str21">Dificultad: </string>
+    <string name="str22">Curr Hash de bloque:</string>
+    <string name="str23">Prev Hash de bloque: </string>
+    <string name="str24">Next Hash de bloque: </string>
+    <string name="str25">Curr. Bloque Num: </string>
+    <string name="str26">Dirección</string>
+
+    <string name="str27">ninguna</string>
+    <string name="str28">escanear</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

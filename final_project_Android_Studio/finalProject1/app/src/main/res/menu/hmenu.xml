@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <item android:id="@+id/get_price"
+        android:title="Price"
+        />
+    <item android:id="@+id/get_chart"
+        android:title="Price Charts"
+        />
+    <item android:id="@+id/get_blockInfo"
+        android:title="Block Info"
+        />
+    <item android:id="@+id/get_balance"
+        android:title="Balance"
+        />
+</menu>

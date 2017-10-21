@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">finalProject</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="msg1">Updating Price...</string>
+    <string name="msg2">Enter Bit Coin Address</string>
+
+    <string name="str1">Stock Market Price</string>
+    <string name="str2">priceLabel</string>
+    <string name="str3">Select Time Period</string>
+
+    <string name="str4">Go</string>
+    <string name="str5">Enter Number: </string>
+    <string name="str6">Go</string>
+    <string name="str7">Balance : </string>
+    <string name="str8">Price</string>
+    <string name="str9">Price Chart</string>
+    <string name="str10">Block Info</string>
+    <string name="str11">Balance</string>
+    <string name="str12">Day 1</string>
+    <string name="str13">Day 5</string>
+    <string name="str14">Prev  :</string>
+    <string name="str15">Next</string>
+    <string name="str16">Prev Block     :</string>
+    <string name="str17">Next Block     :</string>
+    <string name="str18">Size           : </string>
+    <string name="str19">Block Fee      : </string>
+    <string name="str20">v_sum          : </string>
+    <string name="str21">Difficulty     : </string>
+    <string name="str22">Curr Block Hash: </string>
+    <string name="str23">Prev Block Hash: </string>
+    <string name="str24">Next Block Hash: </string>
+    <string name="str25">Curr. Block Num: </string>
+    <string name="str26">Address</string>
+    <string name="str27">None</string>
+    <string name="str28">Scan QR Code</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
